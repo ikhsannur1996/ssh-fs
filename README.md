@@ -54,6 +54,14 @@ Host cse
 - **Membuat Konfigurasi Baru**: Anda dapat membuat konfigurasi baru untuk mengakses direktori lain di server.
 - **Menggunakan Multiple Konfigurasi**: Anda dapat membuat konfigurasi lain untuk mengakses direktori yang berbeda, seperti `/tmp` untuk melihat file sementara.
 
+  ![image](https://github.com/user-attachments/assets/976ada76-0b33-4dfb-9fb0-8424a9ac57af)
+
+  ![image](https://github.com/user-attachments/assets/acbc8e56-504a-4d75-90f9-513e0cc0a8aa)
+
+![image](https://github.com/user-attachments/assets/1cca9ab2-fd62-4897-859d-fd1b8411820e)
+
+
+
 Dengan mengikuti langkah-langkah di atas, Anda dapat menggunakan plugin SSH FS di VS Code untuk mengakses dan mengedit file di server dengan lebih mudah dan efisien.
 
 Citations:
